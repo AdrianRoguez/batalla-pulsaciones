@@ -14,11 +14,11 @@
 ## Operaciones por Actor
 
 ### Jugador
-1. **Crear cuenta de usuario**: El jugador crea una cuenta personal para acceder a todas las funciones del juego.
-2. **Iniciar sesión**: El jugador ingresa a la aplicación con sus credenciales para acceder a su perfil.
+1. **Crear cuenta de usuario**: El jugador crea una cuenta para acceder al juego.
+2. **Iniciar sesión**: El jugador ingresa a la aplicación con su cuenta.
 3. **Participar en una batalla**: El jugador se une a una partida en línea para competir por el mayor número de pulsaciones.
 4. **Ver estadísticas y ranking**: El jugador consulta su rendimiento personal y su posición en el ranking.
-5. **Personalizar avatar**: El jugador elige y personaliza su avatar dentro de las opciones disponibles.
+5. **Personalizar avatar**: El jugador elige y personaliza su avatar.
 
 ### Administrador
 1. **Gestionar cuentas de usuario**: El administrador puede crear, modificar o eliminar cuentas de usuario.
@@ -31,6 +31,4 @@
 1. **Ver detalles del juego**: El visitante puede ver información básica sobre el juego y sus características.
 2. **Ver estadísticas públicas**: El visitante visualiza las estadísticas generales y mejores puntuaciones.
 3. **Explorar avatares y personalización**: El visitante observa los avatares y opciones disponibles para los jugadores registrados.
-4. **Leer reseñas y comentarios de jugadores**: El visitante puede leer opiniones y comentarios sobre el juego.
 5. **Registrarse en la aplicación**: El visitante se registra para crear una cuenta y acceder a todas las funcionalidades.
-
