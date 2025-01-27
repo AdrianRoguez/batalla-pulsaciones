@@ -17,18 +17,9 @@ public class EnemigoModel extends PersonaModel {
      * @param experiencia
      * @param nivel
      */
-    public EnemigoModel(String nombre, int salud, int experiencia, int nivel) {
+    public EnemigoModel(String nombre, int salud, int nivel) {
         super(nombre, salud);
-        this.experiencia = experiencia;
         this.nivel = nivel;
-    }
-
-    public int getExperiencia() {
-        return this.experiencia;
-    }
-
-    public void setExperiencia(int experiencia) {
-        this.experiencia = experiencia;
     }
 
     public int getNivel() {
